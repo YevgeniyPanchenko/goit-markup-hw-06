@@ -575,6 +575,7 @@ textarea {
 }
 
 .footer-link-list .social {
+  fill: var(--white-color);
   margin-right: 10px;
 }
 
@@ -796,9 +797,7 @@ textarea {
   display: flex;
   align-items: baseline;
 }
-.footer-link-list .soc-list .social {
-  fill: var(--white-color);
-}
+
 .footer-form {
   margin-left: auto;
 }
